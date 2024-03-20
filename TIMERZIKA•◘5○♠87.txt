@@ -1,6 +1,6 @@
 3f1c650c-baae-4a3a-80f3-12affa9d7113 //rayzera
 af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla mongo
-227f5350-df67-48cb-9f90-4d0eed539aab //ed ragbrazil
+227f5350-df67-48cb-9f90-4d0eed539aab //ed mutante
 8195f556-50f1-44a3-9616-c2793af47b3a //toph friend
 7c9f3ef7-4954-4ca5-b189-95d09aa6a4b3 //cadu doente
 d420024a-5055-48c2-bb98-8c841890504a //micael
