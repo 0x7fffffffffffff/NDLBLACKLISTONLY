@@ -32,3 +32,4 @@ a28b0d87-8367-4914-a1e2-360ac9a2a09d //Helios
 b7483ee9-23ae-4de1-bf41-1133e8ae19f9 //xandim
 f1a1819c-70b1-4dbd-ac02-38b741c8bd25 //Amigo do Ed WL falta 100$
 8dbe1325-f6c2-4f70-9c81-a01f556d7d7c //ZERO
+6e4536cb-7919-4bd7-a0a1-eec73e3cd0cd //vaqueiro
