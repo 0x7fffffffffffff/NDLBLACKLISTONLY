@@ -3,9 +3,7 @@
 7c884379-f245-4ee8-a249-50407ce50b9c //ed ragbrazil
 8195f556-50f1-44a3-9616-c2793af47b3a //toph friend
 7c9f3ef7-4954-4ca5-b189-95d09aa6a4b3 //cadu doente
-d420024a-5055-48c2-bb98-8c841890504a //micael
 
-2dea28f8-9d58-401e-b8b9-20832cae3a74 //anny
 b7b1c6de-bdff-421e-9cb1-cf68dba8589b //Eyz
 a1ea1f2d-2a70-43e9-8e64-a46d1f657a7d //Diovane
 1325ea55-d3b5-40dd-a236-cf2d21f90d10 //mao ragbrazil
