@@ -39,7 +39,7 @@ db73d16f-736a-4afa-b47f-4d0b83a1ceef //owl8165 taiwan loco
 daace854-d8d2-4123-a53c-8484168aaf9f //koba
 d68fb9df-dfd1-4963-804f-b0ba93dc8d2a //Guidi
 
-
+482d8492-5507-456b-bd96-2646be80aced //Dako Windows 11
 
 7e7d3cec-7eee-43d9-b1d7-9df34e2b18cc //Indio Paraense
 ccf46dda-c5dd-45e2-bed6-aa5843e4a581 //Nuunk
