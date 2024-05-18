@@ -38,7 +38,7 @@ db73d16f-736a-4afa-b47f-4d0b83a1ceef //owl8165 taiwan loco
 2dea28f8-9d58-401e-b8b9-20832cae3a74 //anny
 daace854-d8d2-4123-a53c-8484168aaf9f //koba
 d68fb9df-dfd1-4963-804f-b0ba93dc8d2a //Guidi
-
+336a86ec-04df-4869-a0e9-691aae691d72 //kyeh amigo do rafa
 482d8492-5507-456b-bd96-2646be80aced //Dako Windows 11
 
 7e7d3cec-7eee-43d9-b1d7-9df34e2b18cc //Indio Paraense
