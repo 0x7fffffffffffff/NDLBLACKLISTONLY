@@ -11,7 +11,7 @@ a1ea1f2d-2a70-43e9-8e64-a46d1f657a7d //Diovane
 ce5c0f8f-9500-4d72-84b8-6ea94c76acfd //japa saita worldrag
 f1b4f617-c718-4201-a841-fa9793e4f172 //dispell
 2adbc32f-0187-470e-a931-81bccf43ca96 //Nicolo amigo do Eyz
-af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
+
 c67a55c9-4779-460b-a243-a4239c433cab //Diorama
 0b4f551a-fc54-4ba0-b268-d2ea1d0b0cec //viidarr
 9a456cf5-1d61-434c-90d8-c12ba382a54a // Amigo viidarr
