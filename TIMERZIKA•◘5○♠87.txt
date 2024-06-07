@@ -48,8 +48,8 @@ db6ac5e3-9e18-4672-9105-230b999aa0a3 //Fabio
 1ee84202-f919-4dae-831e-78b0cf775ced //Hudson
 bd2d0d49-0265-4074-927a-1733b824e580 //Papi Fermale
 6ee36cc8-d65d-463d-a99e-f418ae71b665 //Jpz Erik
-
-c0be3429-969a-49fb-9e69-9d2053e73538 //dasabravanel
+1b6ae5ec-c6ee-432d-b758-c51e1c27acb7 //Cleysson amigo do ed
+c0be3429-969a-49fb-9e69-9d2053e73538 //das
 c0e0f5c5-74a9-45b0-8abd-f4b2e8044d05 //amigo do eyz
 aa8f2124-1efa-4d2d-8f2a-e1c0bad45b10 //galo
 c61f7fe4-dd71-4589-88f5-6b8d5395b8d6 //kyeh ragbrazil
