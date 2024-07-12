@@ -74,3 +74,6 @@ bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 28/09/2024
 
 3404cfa9-983b-4ccd-abe9-ac43a8a8b7cc //Fernando Farias whats
 73342031-de57-49d9-a092-837268a2124e //amigo do fernando farias
+
+
+f4d8a606-6b45-4312-82ed-cde91e333dea //rub
