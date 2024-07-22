@@ -3,7 +3,7 @@
 7c884379-f245-4ee8-a249-50407ce50b9c //ed ragbrazil
 8195f556-50f1-44a3-9616-c2793af47b3a //toph friend
 7c9f3ef7-4954-4ca5-b189-95d09aa6a4b3 //cadu doente
-165cfdb0-46aa-4c0d-8afd-0db5ec280688 //blitz
+
 b7b1c6de-bdff-421e-9cb1-cf68dba8589b //Eyz
 a1ea1f2d-2a70-43e9-8e64-a46d1f657a7d //Diovane
 1325ea55-d3b5-40dd-a236-cf2d21f90d10 //mao ragbrazil
@@ -29,13 +29,13 @@ e5cd6e8f-6f19-43e7-807b-5201194c8a92 //vic
 a28b0d87-8367-4914-a1e2-360ac9a2a09d //Helios
 f1a1819c-70b1-4dbd-ac02-38b741c8bd25 //Amigo do Ed WL falta 100$
 8dbe1325-f6c2-4f70-9c81-a01f556d7d7c //ZERO
-6e4536cb-7919-4bd7-a0a1-eec73e3cd0cd //vaqueiro
+
 b0ea0e64-9819-4666-9461-b98268cec8d7 //Never Comp RagBrazil
 255095fb-2461-4d71-8a8e-6782c4cfc33a //coyote
 87fdde03-22c0-40dd-89b7-07578826ebc9 //  amigo do diovane deletar qlqr hr
 2bce3327-b1fe-4227-b7ed-188d542df144 //cara do whats me deve 100$ dia 10
 db73d16f-736a-4afa-b47f-4d0b83a1ceef //owl8165 taiwan loco
-2dea28f8-9d58-401e-b8b9-20832cae3a74 //anny
+
 daace854-d8d2-4123-a53c-8484168aaf9f //koba
 d68fb9df-dfd1-4963-804f-b0ba93dc8d2a //Guidi
 336a86ec-04df-4869-a0e9-691aae691d72 //kyeh amigo do rafa
@@ -62,7 +62,7 @@ dfb1d191-96fb-43af-9b4b-5133a557de7d //nielder feio
 954f6b63-ae87-4158-9d84-a2f04b910b8a //DEV Juh amigo do ed
 1cd6cbe3-2c88-4812-b983-79c8e2252406 //Luckzor
 2149e097-a412-43d0-9ee3-c5afdd8e514b //jowzera mbro
-2dea28f8-9d58-401e-b8b9-20832cae3a74 //anny
+
 fc36143b-3f00-42c1-9dcc-9da9cc38ac5e //dispell new pc
 d64a8ea1-ee59-4ef1-9e0e-b8810f1ff2fc //Aluisio Pires
 1e781a51-e415-499d-8d45-c15cade56930 //andrei
