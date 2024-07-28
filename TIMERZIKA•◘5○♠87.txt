@@ -62,7 +62,7 @@ dfb1d191-96fb-43af-9b4b-5133a557de7d //nielder feio
 954f6b63-ae87-4158-9d84-a2f04b910b8a //DEV Juh amigo do ed
 1cd6cbe3-2c88-4812-b983-79c8e2252406 //Luckzor
 2149e097-a412-43d0-9ee3-c5afdd8e514b //jowzera mbro
-
+5debde7f-674f-43eb-85f7-825e33f7db0a //CX3200
 fc36143b-3f00-42c1-9dcc-9da9cc38ac5e //dispell new pc
 d64a8ea1-ee59-4ef1-9e0e-b8810f1ff2fc //Aluisio Pires
 1e781a51-e415-499d-8d45-c15cade56930 //andrei
