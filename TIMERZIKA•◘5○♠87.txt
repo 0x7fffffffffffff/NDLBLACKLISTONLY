@@ -29,7 +29,7 @@ e5cd6e8f-6f19-43e7-807b-5201194c8a92 //vic
 a28b0d87-8367-4914-a1e2-360ac9a2a09d //Helios
 f1a1819c-70b1-4dbd-ac02-38b741c8bd25 //Amigo do Ed WL falta 100$
 8dbe1325-f6c2-4f70-9c81-a01f556d7d7c //ZERO
-
+3742ddce-6166-4eeb-80c2-cbc7f2a93e43 //dasabravanel
 b0ea0e64-9819-4666-9461-b98268cec8d7 //Never Comp RagBrazil
 255095fb-2461-4d71-8a8e-6782c4cfc33a //coyote
 87fdde03-22c0-40dd-89b7-07578826ebc9 //  amigo do diovane deletar qlqr hr
