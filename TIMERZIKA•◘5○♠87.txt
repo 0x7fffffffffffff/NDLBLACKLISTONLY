@@ -75,7 +75,7 @@ bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 28/09/2024
 fcd98b70-f1d3-477e-968f-f0fcf3e30b61 //Haddadborges leegendsro ndl
 3404cfa9-983b-4ccd-abe9-ac43a8a8b7cc //Fernando Farias whats
 73342031-de57-49d9-a092-837268a2124e //amigo do fernando farias
-
+68dd0e1e-310e-4198-8d09-07490f81cf81 //gorila
 
 f4d8a606-6b45-4312-82ed-cde91e333dea //rub
 2d584b05-829a-4a67-83f3-1a8e409b0f9f //obelisk
