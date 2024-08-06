@@ -79,3 +79,4 @@ fcd98b70-f1d3-477e-968f-f0fcf3e30b61 //Haddadborges leegendsro ndl
 1ae8c957-bea1-40f7-955c-834dddf84310 //ezna
 f4d8a606-6b45-4312-82ed-cde91e333dea //rub
 2d584b05-829a-4a67-83f3-1a8e409b0f9f //obelisk
+69c6f32e-a16d-4cbc-81eb-22e9d2693764 //le
