@@ -80,7 +80,7 @@ fcd98b70-f1d3-477e-968f-f0fcf3e30b61 //Haddadborges leegendsro ndl
 f4d8a606-6b45-4312-82ed-cde91e333dea //rub
 2d584b05-829a-4a67-83f3-1a8e409b0f9f //obelisk
 69c6f32e-a16d-4cbc-81eb-22e9d2693764 //le
-0e2d328d-e777-4a15-a466-b5b6d1d84c47 //daniel worldrag advogado
+b9ce03f2-bede-4245-b75d-84b37daa6402 //danielworldrag
 f9d5481c-584d-4ef3-a6f9-3b05c6101898 //amigo do rafa ragbrazil
 92772779-227e-4d4a-80d8-00b30688ab99 //never comp amigo do rafa
 ebedc2f4-4961-4a4c-af27-1ba55a431aa0 //wiliam ragbrazil
@@ -90,3 +90,4 @@ ebedc2f4-4961-4a4c-af27-1ba55a431aa0 //wiliam ragbrazil
 26be0cc7-79fd-4011-b00d-a6d035e2a413 //dominic
 c85a7079-7778-437a-a251-bf5e4a3aa8f9 //lifera
 5ebafc33-700f-4935-bc35-0df84e29eb50 //vinney
+b9ce03f2-bede-4245-b75d-84b37daa6402 //danielworldrag
