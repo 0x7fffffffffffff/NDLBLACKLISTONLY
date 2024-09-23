@@ -6,7 +6,6 @@
 461450eb-a2f1-435c-b63e-b7d12126533e //cx300
 2b2fa67f-710e-4505-a0cd-09c2b46f981b //eyz
 b7b1c6de-bdff-421e-9cb1-cf68dba8589b //Eyz
-a1ea1f2d-2a70-43e9-8e64-a46d1f657a7d //Diovane
 1325ea55-d3b5-40dd-a236-cf2d21f90d10 //mao ragbrazil
 367b57c3-83b5-4956-be34-fa43a24e453e //marcoscavalcant bro
 ce5c0f8f-9500-4d72-84b8-6ea94c76acfd //japa saita worldrag
@@ -19,7 +18,6 @@ c67a55c9-4779-460b-a243-a4239c433cab //Diorama
 cd43eaff-322c-4c03-ab1d-0148952b107c //amigo do raffa ragbrazil
 d772965b-ab96-43a6-862c-f80d5cd4a947 //rafa ragbrazil
 8912f34e-1f0d-4bee-bce3-8a88e48e9ca9 //pedrao zika
-bda23c44-d965-46a0-bd85-e6434f9783ed //vibee
 0c6f7a56-ccc5-4c27-8db3-63c18106d386 //Troublemaker
 529430c0-6a91-4f89-87c9-441ae590768f //alef whats
 18bad244-0fce-4f66-80ad-ebe6d304facc //tobi
@@ -38,22 +36,12 @@ b0ea0e64-9819-4666-9461-b98268cec8d7 //Never Comp RagBrazil
 db73d16f-736a-4afa-b47f-4d0b83a1ceef //owl8165 taiwan loco
 1cdd6dc3-7ae3-474b-a846-43be81983b9e //JoyaLv
 daace854-d8d2-4123-a53c-8484168aaf9f //koba
-d68fb9df-dfd1-4963-804f-b0ba93dc8d2a //Guidi
-336a86ec-04df-4869-a0e9-691aae691d72 //kyeh amigo do rafa
 482d8492-5507-456b-bd96-2646be80aced //Dako Windows 11
 b8d421e9-0c4f-43da-bfef-12c3b0a742ce //name
-7e7d3cec-7eee-43d9-b1d7-9df34e2b18cc //Indio Paraense
-ccf46dda-c5dd-45e2-bed6-aa5843e4a581 //Nuunk
-a6bc6861-59c3-4430-bdba-ecb9eab8653a //𝕯 𝖆 𝖛 𝖎 𝖉 I BLIZZARD
-db6ac5e3-9e18-4672-9105-230b999aa0a3 //Fabio
-
-bd2d0d49-0265-4074-927a-1733b824e580 //Papi Fermale
-6ee36cc8-d65d-463d-a99e-f418ae71b665 //Jpz Erik
 1b6ae5ec-c6ee-432d-b758-c51e1c27acb7 //Cleysson amigo do ed
 c0be3429-969a-49fb-9e69-9d2053e73538 //das
 c0e0f5c5-74a9-45b0-8abd-f4b2e8044d05 //amigo do eyz
 aa8f2124-1efa-4d2d-8f2a-e1c0bad45b10 //galo
-c61f7fe4-dd71-4589-88f5-6b8d5395b8d6 //kyeh ragbrazil
 53ee5c44-6b53-4b45-8d6e-e710d452b60d //MadKing
 12d554b9-e39f-4500-b2b9-6014cf16dcb8 //amigo do rafaa
 b8d421e9-0c4f-43da-bfef-12c3b0a742ce //namezera full
@@ -64,7 +52,6 @@ dfb1d191-96fb-43af-9b4b-5133a557de7d //nielder feio
 1cd6cbe3-2c88-4812-b983-79c8e2252406 //Luckzor
 2149e097-a412-43d0-9ee3-c5afdd8e514b //jowzera mbro
 5debde7f-674f-43eb-85f7-825e33f7db0a //CX3200
-fc36143b-3f00-42c1-9dcc-9da9cc38ac5e //dispell new pc
 d64a8ea1-ee59-4ef1-9e0e-b8810f1ff2fc //Aluisio Pires
 1e781a51-e415-499d-8d45-c15cade56930 //andrei
 f6ecb5cf-6d1c-42a0-857d-151ab487984f //Matheusditto me deve 235,00 dia 5
@@ -85,10 +72,6 @@ f9d5481c-584d-4ef3-a6f9-3b05c6101898 //amigo do rafa ragbrazil
 92772779-227e-4d4a-80d8-00b30688ab99 //never comp amigo do rafa
 ebedc2f4-4961-4a4c-af27-1ba55a431aa0 //wiliam ragbrazil
 54b43e6c-5fdf-4161-9a97-6596d030d49b //ph
-66436796-9c26-481e-b85d-d30261099306 //rivaldo amigo do mu
-33860824-c62f-4c12-ac95-4c9139fd2630 //dust amigo do mu
-26be0cc7-79fd-4011-b00d-a6d035e2a413 //dominic
-c85a7079-7778-437a-a251-bf5e4a3aa8f9 //lifera
 5ebafc33-700f-4935-bc35-0df84e29eb50 //vinney
 b9ce03f2-bede-4245-b75d-84b37daa6402 //danielworldrag
 1dae15e0-483e-4bb6-bb87-049a441b6392 //riique
