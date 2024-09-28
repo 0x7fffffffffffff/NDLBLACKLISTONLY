@@ -11,7 +11,6 @@ b7b1c6de-bdff-421e-9cb1-cf68dba8589b //Eyz
 ce5c0f8f-9500-4d72-84b8-6ea94c76acfd //japa saita worldrag
 f1b4f617-c718-4201-a841-fa9793e4f172 //dispell
 2adbc32f-0187-470e-a931-81bccf43ca96 //Nicolo amigo do Eyz
-af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
 c67a55c9-4779-460b-a243-a4239c433cab //Diorama
 0b4f551a-fc54-4ba0-b268-d2ea1d0b0cec //viidarr
 9a456cf5-1d61-434c-90d8-c12ba382a54a // Amigo viidarr
@@ -56,7 +55,6 @@ d64a8ea1-ee59-4ef1-9e0e-b8810f1ff2fc //Aluisio Pires
 1e781a51-e415-499d-8d45-c15cade56930 //andrei
 f6ecb5cf-6d1c-42a0-857d-151ab487984f //Matheusditto me deve 235,00 dia 5
 97957f68-5148-43b7-9951-32b487123cea //amigo do ed
-bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 28/09/2024
 8d492149-8917-41e1-818a-5af9fac1049c //Electro Expire 29/07/2024
 3404cfa9-983b-4ccd-abe9-ac43a8a8b7cc //Fernando Farias whats
 fcd98b70-f1d3-477e-968f-f0fcf3e30b61 //Haddadborges leegendsro ndl
