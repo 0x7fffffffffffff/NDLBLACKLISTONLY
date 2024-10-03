@@ -80,3 +80,4 @@ e26071ea-6ec9-4d47-a8f5-70dfa6a3e2fc //crda
 92772779-227e-4d4a-80d8-00b30688ab99 //ludwig
 48ea414d-02bf-40b2-aa8e-96ae17774557 //Gaah
 4d127f14-eb38-4ed0-9ac9-59e4eac340ac //Robb
+255095fb-2461-4d71-8a8e-6782c4cfc33a //coyote
