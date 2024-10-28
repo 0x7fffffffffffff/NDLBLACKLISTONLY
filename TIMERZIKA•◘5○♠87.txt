@@ -94,3 +94,4 @@ f0b9dc98-012a-41cf-b3cd-fb735e53743a //dispell
 3480575e-8c72-4b23-84ab-1027967c386f //S4muel
 36a34da6-2257-4967-a3f5-7fe74257c22d //Mechiz
 588be2de-556b-4532-aad4-3c517c4b94ad //dispell2
+835167c3-c891-4198-a54e-1c01f6ccc892 //duendetheblack
